@@ -2,6 +2,10 @@
 A simple E-commerce website using Flask.
   
 ## Dependencies ##
+pip install flask
+pip install sqlite
+
+##Install python3
 1. Python3
 2. Flask
 3. Sqlite
