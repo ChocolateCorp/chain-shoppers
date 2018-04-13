@@ -1,0 +1,61 @@
+body{
+	background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(https://im-cdn.com/assets/images/online-store/online-store-header.51d264eff63b.png);
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+}
+
+.login-page{
+	width: 360px;
+	padding: 19% 0 0;
+	margin: auto;
+	
+}
+.form{
+	position: relative;
+	z-index: 1;
+	background: rgba(73, 103, 189, 0.6);
+	max-width: 360px;
+	margin: 0 auto 100px;
+	padding: 45px;
+	text-align: center;
+}
+.form input{
+	font-family: "Georgia", sans-serif;
+	outline: 1;
+	background: #f2f2f2;
+	width: 100%;
+	border: 0;
+	margin: 0 0 15px;
+	padding: 15px;
+	box-sizing: border-box;
+	font-size: 16px;
+}
+.form button{
+	font-family: "Georgia", sans-serif;
+	text-transform: uppercase
+	outline: 0;
+	background: #EC4D71;
+	width: 100%;
+	border: 0;
+	padding: 15px;
+	color: #FFFFFF;
+	font-size: 16px;
+	cursor: pointer;
+}
+.form button:hover,.form button:active{
+	background: #DC143C;
+}
+.form .message{
+	font-family: "Georgia", sans-serif;
+	margin: 15px o o;
+	color: goldenrod;
+	font-size: 15px;
+}
+.form .message a{
+	color; #FFB6C1;
+	text-decoration: none:
+}
+.form .register-form{
+	display: none;
+}
