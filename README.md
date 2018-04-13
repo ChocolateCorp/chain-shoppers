@@ -12,5 +12,5 @@ pip install sqlite
 
 ## How to run ##
 1. Set up database by running database.py
-2. Run main.py
+2. Run app.py
 3. Enter localhost:5000 in the browser.
